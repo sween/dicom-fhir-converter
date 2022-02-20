@@ -34,6 +34,6 @@ setup(
     #test_suite="tests",
     tests_require=test_requirements + requirements,
     url="https://github.ibm.com/ebaron/dicom-fhir-converter",
-    version="0.0.1",
+    version="0.0.8",
     python_requires=">=3.6"
 )
